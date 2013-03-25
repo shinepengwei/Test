@@ -1,4 +1,5 @@
 using namespace std;
+//test for git
 int maxlong=0;
 int findnext(int* num, int n,int startid,int d,int before,int nowlong){
     int nextid=-1;
